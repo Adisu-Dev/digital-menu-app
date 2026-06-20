@@ -1,2 +1,1 @@
-/* Login-specific: keep submit button using indigo gradient from Register.css */
-/* No overrides needed — Register.css already uses the indigo gradient */
+/* Login inherits everything from Register.css — no overrides needed */
