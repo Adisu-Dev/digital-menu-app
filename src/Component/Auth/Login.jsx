@@ -35,7 +35,8 @@ const Login = ({ switchToRegister }) => {
   return (
     <div className="auth-card">
       <div className="auth-header">
-        <h1>🍽️ Digital Menu</h1>
+        <span className="auth-logo">🍽️</span>
+        <h1>Digital Menu</h1>
         <h2>Welcome Back</h2>
         <p>Sign in to manage your menu</p>
       </div>
@@ -94,3 +95,4 @@ const Login = ({ switchToRegister }) => {
 };
 
 export default Login;
+ 

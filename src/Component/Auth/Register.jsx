@@ -70,7 +70,8 @@ const Register = ({ switchToLogin }) => {
   return (
     <div className="auth-card">
       <div className="auth-header">
-        <h1>🍽️ Digital Menu</h1>
+        <span className="auth-logo">🍽️</span>
+        <h1>Digital Menu</h1>
         <h2>Create Your Account</h2>
         <p>Register as a service provider</p>
       </div>
