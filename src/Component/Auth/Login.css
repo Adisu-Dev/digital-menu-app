@@ -1,0 +1,10 @@
+/* Login reuses all shared styles from Register.css */
+/* Extra login-specific overrides can go here */
+
+.auth-card .btn-primary.btn-block {
+  background: #2d3748;
+}
+
+.auth-card .btn-primary.btn-block:hover {
+  background: #1a202c;
+}
